@@ -8,6 +8,14 @@
 
 [js-test](https://github.com/softspider/js-test)
 
+## Direct feature descendants
+
+[node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd)
+
+## Direct code descendants
+
+[node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd)
+
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
