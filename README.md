@@ -1,4 +1,4 @@
-# Mimimalistic Node testing in Travic CI
+# Mimimalistic Node testing in Travis CI
 
 ## Direct feature ancestors
 
@@ -23,6 +23,9 @@ yarn
 ```sh
 yarn test
 ```
+
+## Building in Travis CI
+TBD
 
 ## Authors
 
