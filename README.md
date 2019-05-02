@@ -1,4 +1,4 @@
-# Mimimalistic Node testing in Travis CI
+# Mimimalistic Node App building in Travis CI
 
 ## Direct feature ancestors
 
