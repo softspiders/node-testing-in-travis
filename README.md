@@ -2,6 +2,7 @@
 
 ## Feature tags
 
+- build
 - ci
 - jest
 - template
