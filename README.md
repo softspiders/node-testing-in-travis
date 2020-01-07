@@ -1,5 +1,13 @@
 # Mimimalistic Node App building in Travis CI
 
+## Feature tags
+
+- ci
+- jest
+- template
+- travis
+- nodejs
+
 ## Direct feature ancestors
 
 [js-test](https://github.com/softspider/js-test)
