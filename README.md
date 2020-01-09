@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # Mimimalistic Node App building in Travis CI
 
 ## Feature tags
@@ -9,22 +11,16 @@
 - travis
 - nodejs
 
-## Direct feature ancestors
+## Direct ancestors - also by code
 
 [js-test](https://github.com/softspider/js-test)
 
-## Direct code ancestors
+## Direct descendants
 
-[js-test](https://github.com/softspider/js-test)
-
-## Direct feature descendants
-
-[node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd)
-
-## Direct code descendants
-
-[node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd)
-
+[node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd) - also by code
+ 
+ ---
+ 
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
