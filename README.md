@@ -13,7 +13,7 @@ SOFTSPIDERS
 
 ## Direct ancestors - also by code
 
-[js-test](https://github.com/softspider/js-test)
+[jest](https://github.com/softspider/jest)
 
 ## Direct descendants
 
