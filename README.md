@@ -17,7 +17,7 @@ SOFTSPIDERS
 
 ## Direct descendants
 
-[node-travis-heroku-cd](https://github.com/softspider/node-travis-heroku-cd) - also by code
+[node-travis-heroku-cd](https://github.com/softspiders/node-travis-heroku-cd) - also by code
  
  ---
  
