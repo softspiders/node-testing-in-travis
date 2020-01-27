@@ -13,7 +13,7 @@ SOFTSPIDERS
 
 ## Direct ancestors - also by code
 
-[jest](https://github.com/softspider/jest)
+[jest](https://github.com/softspiders/jest)
 
 ## Direct descendants
 
