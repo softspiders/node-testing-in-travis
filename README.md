@@ -7,6 +7,7 @@ SOFTSPIDERS
 - build
 - ci
 - jest
+- starter
 - template
 - travis
 - nodejs
